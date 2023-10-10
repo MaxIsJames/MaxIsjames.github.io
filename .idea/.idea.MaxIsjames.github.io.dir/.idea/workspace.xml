@@ -4,7 +4,65 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="714306eb-c523-4549-b3ba-93df46406d56" name="Changes" comment="" />
+    <list default="true" id="714306eb-c523-4549-b3ba-93df46406d56" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MaxIsjames.github.io.dir/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MaxIsjames.github.io.dir/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MaxIsjames.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MaxIsjames.github.io.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Changelog.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/authors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/authors.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/featuredbox.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/featuredbox.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/postbox.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/postbox.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/tag.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/tag.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-01-12-a-week-with-the-apple-watch.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-02-07-advanced-markdown-tips.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-02-10-what-is-jekyll.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-03-12-options-for-creating-new-site-with-jekyll.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-03-12-react-conferences-to-attend-in-2018.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-04-02-working-from-home.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-05-12-six-things-that-will-make-or-break-fusion-festival.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-11-12-experience-dramatic-landscape.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-11-13-the-cutting-edge-architecture.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-03-10-how-to-start-learning-blockchain-development.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-03-15-modern-graphic-design-directions-and-purpose.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-03-17-what-is-photography-and-what-it-means-to-me.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-04-12-history-of-visual-communication.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_general.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_general.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_media-queries.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_media-queries.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_posts-pages.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_posts-pages.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_prism.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_prism.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_structure.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_structure.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/daniel.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/daniel.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/nancy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/nancy.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/pages/about.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/pages/about.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/pages/style_guides.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/pages/style_guides.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/posts/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/posts/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/posts/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/posts/13.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/posts/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/posts/15.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/posts/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/posts/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/posts/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/posts/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/posts/21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/posts/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/posts/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/posts/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/posts/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/posts/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/posts/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/posts/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thank-you.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,12 +71,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "MaxIsJames"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MaxIsJames&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -39,28 +97,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "5317f9c1",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;forma-theme-fresh-install&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\maxvd\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache",
-      "C:\\Users\\maxvd\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache",
-      "C:\\Users\\maxvd\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\maxvd\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\maxvd\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\maxvd\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -73,6 +132,17 @@
       <workItem from="1694986120641" duration="5024000" />
       <workItem from="1695232492090" duration="9084000" />
       <workItem from="1695303029125" duration="2336000" />
+      <workItem from="1695380476698" duration="11520000" />
+      <workItem from="1695553981129" duration="3742000" />
+      <workItem from="1695846511210" duration="1287000" />
+      <workItem from="1696177462145" duration="1051000" />
+      <workItem from="1696193186850" duration="9146000" />
+      <workItem from="1696374696735" duration="4078000" />
+      <workItem from="1696461461826" duration="3817000" />
+      <workItem from="1696543731058" duration="4588000" />
+      <workItem from="1696794121840" duration="8238000" />
+      <workItem from="1696842692669" duration="17867000" />
+      <workItem from="1696928737187" duration="2535000" />
     </task>
     <servers />
   </component>
@@ -80,7 +150,22 @@
     <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

@@ -1,14 +1,13 @@
 # Site setings
-name: 'Max van der Merwe'
+name: 'Max Makes Stuff!'
 description: 'I make stuff! Games and graphics mostly!'
 # Sidebar about text
-site_description: 'Welcome to my blog. It features topics such as fashion, architecture, travel & design. This blog is about finding balance in life, living with purpose, having fun, and doing what you love.'
+site_description: 'Hello! I am Max van der Merwe! A Programmer, Designer and Technical Artist working primarily on video games!'
 logo:
-favicon: 'assets/images/favicon.ico'
+favicon:
 baseurl: 
 production_url: https://forma.netlify.com/
 disqus: 
-mailchimp_url: 
 # Add your GA Tracking Id
 ga_analytics: 
 
@@ -18,14 +17,7 @@ contact_page_description: "Forma theme comes with a contact form built-in. You c
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
-twitter: 'username'
-facebook: 'username'
-github: 'username'
-codepen: 'username'
-dribbble: 'username'
-medium: '@username'
-instagram: 'username'
-pinterest: 'username'
+twitter: 'maxvandm'
 linkedin: 'username'
 
 
@@ -33,8 +25,6 @@ linkedin: 'username'
 navigation:
   - text: About
     url: /about/
-  - text: Style Guide
-    url: /style-guide/
   - text: Contact Me
     url: /contact/
 
@@ -47,7 +37,7 @@ plugins_dir:
   - jekyll-author-page
 
 # Pagination
-paginate: 6
+paginate: 8
 paginate_path: /page:num/
 
 # Permalinks

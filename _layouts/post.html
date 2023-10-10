@@ -8,7 +8,7 @@ post_class: post-template
     <main id="main" class="site-main inner">
         <article class="post">
             {% if page.featured_image %}
-                <div class="post-thumbnail"><img src="{{ site.baseurl }}{{ page.featured_image }}" alt="{{ page.title }}"></div>
+                <div class="entry-content"><img src="{{ site.baseurl }}{{ page.featured_image }}" alt="{{ page.title }}"></div>
             {% endif %}
             <header class="entry-header">
                 <h1 class="entry-title">{{ page.title }}</h1>
@@ -18,17 +18,35 @@ post_class: post-template
                     <span class="post-author"><a href="{{ site.baseurl }}/author/{{ page.author }}/">{{ author[1].name }}</a></span>
                     {% endif %}
                     {% endfor %}
+                    
+                    {% if page.show_date %}
                     <span class="post-date">
                         <time class="published" datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%B %-d,
                             %Y" }}</time>
                     </span>
+                    <br>
+                    {% endif %}
+                    
+                    {% if page.tags.size > 0 %}
+                    <p class="role-tags">
+                        Roles:
+                        {% for tag in page.tags %} {% if forloop.index == page.tags.size %}
+                        <a href='{{ site.baseurl }}tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ tag | camelcase }}</a> 
+                        {% else %}
+                        <a href='{{ site.baseurl }}tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ tag | camelcase }}</a> |
+                        {% endif %}
+                        {% endfor %}
+                    </p>
+                    {% endif %}
+                    <hr>
+                    <br>
                 </div><!-- .entry-meta -->
             </header><!-- .entry-header -->
             <div class="entry-content">
                 {{content}}
             </div>
             <footer class="entry-footer">
-                {% if page.tags.size > 0 %}
+                {% if page.tags.size > 100 %}
                 <p class="post-tags">
                     {% for tag in page.tags %} {% if forloop.index == page.tags.size %}
                     <a href='{{ site.baseurl }}tag/{{ tag | downcase | replace: ' ', '- ' }}/'>{{ tag | camelcase }}</a>
@@ -88,9 +106,6 @@ post_class: post-template
             {% endif %}
             {% endfor %}
         </article>
-        {% if site.mailchimp_url %}
-            {% include newsletter-box.html %}
-        {% endif %}
         <nav class="navigation post-navigation">
             <h2 class="screen-reader-text">Post navigation</h2>
             <div class="nav-links">
@@ -128,6 +143,5 @@ post_class: post-template
             {% endif %}
             </div><!-- .nav-links -->
         </nav><!-- .post-navigation -->
-        {% include disqus.html %}
     </main><!-- .site-main -->
 </div><!-- .site-content -->

@@ -229,8 +229,13 @@
 
   .featured-slider .slide-overlay {
       padding: 1.5em;
+    bottom: -150px;
   }
-
+  .slider-loading,
+  .featured-slider .slick-slide {
+    height: 360px;
+    margin-bottom: 9em;
+  }
   .featured-slider .slick-arrow {
       line-height: 2;
       height: 44px;
@@ -304,7 +309,6 @@
   .featured-posts,
   .comments-area,
   .navigation {
-      margin-bottom: 2.5em;
   }
 
   .post-navigation,

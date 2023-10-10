@@ -23,29 +23,30 @@
 }
 
 .site-title {
-    font-size: 24px;
+    font-size: 32px;
     font-weight: bold;
+    color: $black;
     letter-spacing: 0.05em;
     line-height: 1;
     margin: 0 8px 0 0;
     position: relative;
-    text-transform: uppercase;
     z-index: 1;
 
     a {
-        border: 2px solid $gray-dark;
-        color: $black;
+        background-color: $gray-light;
+        border: 5px solid $black;
+        color:  $black;
         display: inline-block;
-        padding: 18px 30px 10px 38px;
+        padding: 15px 38px 15px 38px;
         position: relative;
-        -webkit-transition: padding .3s;
-        -moz-transition: padding .3s;
-        transition: padding .3s;
+        -webkit-transition: padding 0s;
+        -moz-transition: padding 0s;
+        transition: padding 0s;
 
         &:before {
-            background-color: $color-accent;
-            border-bottom: 2px solid $color-accent;
-            border-right: 2px solid $color-accent;
+            background-color: $black;
+            border-bottom: 2px solid $black;
+            border-right: 2px solid $black;
             content: "";
             height: 100%;
             left: 8px;
@@ -58,16 +59,9 @@
             z-index: -1;
         }
 
-        &:hover {
-            padding: 14px 34px;
-        }
     }
 }
 
-.site-title a:hover:before {
-    left: 0;
-    top: 0;
-}
 
 .site-description {
     color: $gray;

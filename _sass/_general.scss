@@ -106,7 +106,8 @@ pre {
 }
 
 blockquote {
-    border: 2px solid $gray-dark;
+    border: 5px solid $gray-dark;
+    background-color: $gray-light;
     color: $black;
     font-size: 24px;
     font-weight: bold;
@@ -206,8 +207,7 @@ th {
 }
 
 hr {
-    background-color: $gray-light;
-    border: 0;
+    background-color: $black;
     height: 1px;
     margin: 1.875em 0;
     position: relative;
@@ -233,7 +233,7 @@ textarea {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    border: 2px solid $gray-dark;
+    border: 5px solid $gray-dark;
     border-radius: 0;
     color: $gray-dark;
     display: inline-block;
@@ -311,7 +311,7 @@ input[type="reset"]:active {
 .widget input[type="button"],
 .widget input[type="reset"],
 .search-form .search-submit {
-    border: 2px solid $color-accent;
+    border: 5px solid $color-accent;
     font-size: 12px;
     padding: 5px 15px;
 }
@@ -336,7 +336,7 @@ input[type="reset"]:active {
 }
 
 #mc-embedded-subscribe {
-    border: 2px solid $color-accent;
+    border: 5px solid $color-accent;
     padding: 0;
     position: absolute;
     right: 0;
@@ -404,7 +404,19 @@ video {
 img {
     height: auto;
     max-width: 100%;
+    min-width: 100%;
+    display: block;
+    margin: 0 auto;
 }
+
+.post-content,
+.entry-content{
+    img {
+        border: 0px solid $gray-dark;
+    }
+
+}
+
 
 /* Captions */
 .caption {
@@ -682,7 +694,7 @@ blockquote.alignright {
 
 .slick-slider .slick-arrow {
     background-color: #fff;
-    border: 2px solid $gray-dark;
+    border: 5px solid $gray-dark;
     bottom: 15px;
     color: $black;
     font-size: 21px;
