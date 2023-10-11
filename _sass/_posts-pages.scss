@@ -264,7 +264,7 @@ a.post-thumbnail:hover img {
 
 .slider-loading {
     background-color: #fff;
-    background-image: url(../images/ajax-loader.gif);
+   // background-image: url(../images/ajax-loader.gif);
     background-position: center center;
     background-repeat: no-repeat;
     height: 630px;
@@ -307,8 +307,9 @@ a.post-thumbnail:hover img {
     box-sizing: border-box;
     left: -220px;
     padding: 2.5em 24px;
+    padding-bottom: 0em;
     position: absolute;
-    top: 140px;
+    top: 240px;
     width: 550px;
 }
 

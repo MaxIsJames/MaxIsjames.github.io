@@ -1,24 +1,23 @@
 # Site setings
 name: 'Max Makes Stuff!'
-description: 'I make stuff! Games and graphics mostly!'
+description: 'Graphics, Games and Interactive Design'
 # Sidebar about text
 site_description: 'Hello! I am Max van der Merwe! A Programmer, Designer and Technical Artist working primarily on video games!'
 logo:
 favicon:
-baseurl: 
-production_url: https://forma.netlify.com/
+production_url: www.linkedin.com/in/james-max-van-der-merwe-5b2558251
 disqus: 
 # Add your GA Tracking Id
 ga_analytics: 
 
 # Contact form setings
 email: maxvdm@gmail.com
-contact_page_description: "Forma theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
+contact_page_description: ""
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
 twitter: 'maxvandm'
-linkedin: 'username'
+linkedin: 'james-max-van-der-merwe-5b2558251'
 
 
 # Navigation
@@ -37,7 +36,7 @@ plugins_dir:
   - jekyll-author-page
 
 # Pagination
-paginate: 8
+paginate: 7
 paginate_path: /page:num/
 
 # Permalinks
