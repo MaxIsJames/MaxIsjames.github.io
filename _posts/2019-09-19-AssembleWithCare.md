@@ -16,7 +16,7 @@ project at the very beginning of development in order to develop a unique art st
 
 ![AWC.jpg](assets/images/posts/AWC.jpg)
 
-Developed by ustwo Games and relased for iOS and Android devices,
+Developed by ustwo Games and released for iOS and Android devices,
 you can find out more about this game at [assemblegame.com](https://www.assemblegame.com/)
 
 ---
